@@ -18,7 +18,7 @@ class PortfolioScreen extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Icon(
-                  Icons.briefcase_outline,
+                  Icons.work_outline,
                   size: 64,
                   color: Colors.grey[300],
                 ),
