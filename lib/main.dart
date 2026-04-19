@@ -115,7 +115,7 @@ class _MyWalletHomeState extends State<MyWalletHome> {
               },
             ),
             ListTile(
-              leading: const Icon(Icons.briefcase),
+              leading: const Icon(Icons.account_balance_wallet),
               title: const Text('Portafoglio'),
               selected: _selectedIndex == 1,
               onTap: () {
